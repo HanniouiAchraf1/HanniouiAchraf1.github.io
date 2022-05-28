@@ -5,6 +5,23 @@
 * License: https://bootstrapmade.com/license/
 */
 
+.hero-container a{
+  display: inline-block;
+  background: rgb(2, 2, 83);
+  color: #fff;
+  font-size: 25px;
+  padding: 12px 36px;
+  margin-top: 20px;
+  border-radius: 6px;
+  border: 2px solid rgb(2, 2, 83);
+  transition: all 0.3 ease;
+}
+
+.hero-container a:hover{
+  color: rgb(2, 2, 83);
+  background: none;
+}
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
