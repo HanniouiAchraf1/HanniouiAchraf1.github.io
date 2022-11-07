@@ -1,0 +1,12 @@
+Bonjour monsieur,
+ je suis très intéressé par votre entreprise.
+Au cours de la période de formation, j'ai acquis un ensemble de compétences en informatique
+de ces compétences :
+-DÉVELOPPEMENT DE LOGICIELS
+Langages: Python, C#
+-DÉVELOPPEMENT WEB
+Langages: HTML5, CSS3, JAVASCRIPT, bootstrap 
+-BASES DE DONNÉES
+Langages: SQL, Firebase
+-MÉTHODE D’ANALYSE ET CONCEPTION
+Merise, UML
